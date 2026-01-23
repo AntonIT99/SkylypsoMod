@@ -1,0 +1,20 @@
+{
+  "Group": "com.skylypso",
+  "Name": "SkylypsoPlugin",
+  "Version": "${version}",
+  "Description": "Skylypso Official Plugin",
+  "Authors": [
+    {
+      "Name": "ElsassWolf",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Main": "com.skylypso.SkylypsoPlugin"
+}
