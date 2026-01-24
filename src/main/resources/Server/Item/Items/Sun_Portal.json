@@ -11,7 +11,7 @@
     "DrawType": "Model",
     "Material": "Solid",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Portal/SunPortal.blockymodel",
+    "CustomModel": "Blocks/Portal/Sun_Portal.blockymodel",
     "CustomModelTexture": [
       {
         "Texture": "Blocks/Portal/Sun_Portal.png",
@@ -70,7 +70,7 @@
       "HubPortal"
     ]
   },
-  "Quality": "Developer",
+  "Quality": "Technical",
   "IconProperties": {
     "Scale": 0.35,
     "Rotation": [
