@@ -57,7 +57,7 @@ public class SkylypsoPlugin extends JavaPlugin
         getEventRegistry().registerGlobal(PlayerReadyEvent.class, ExampleEvent::onPlayerReady);*/
 
         // Where we store the pair (super simple JSON)
-        dataFile = Path.of("mods", "SkylypsoPlugin", "portal.json");
+        dataFile = Path.of("mods", "Skylypso", "portal.json");
         loadPortalPair();
 
         // Commands

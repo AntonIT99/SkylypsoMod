@@ -1,8 +1,8 @@
 {
   "Group": "com.skylypso",
-  "Name": "SkylypsoPlugin",
+  "Name": "SkylypsoMod",
   "Version": "${version}",
-  "Description": "Skylypso Official Plugin",
+  "Description": "Skylypso Official Mod",
   "Authors": [
     {
       "Name": "ElsassWolf",
