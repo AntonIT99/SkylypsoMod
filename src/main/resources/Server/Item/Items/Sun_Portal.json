@@ -1,7 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "items.sun_portal.name",
-    "Description": "items.sun_portal.description"
+    "Name": "items.Sun_Portal.name",
+    "Description": "items.Sun_Portal.description"
   },
   "Icon": "Icons/ItemsGenerated/Sun_Portal.png",
   "Categories": [
@@ -11,10 +11,10 @@
     "DrawType": "Model",
     "Material": "Solid",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Portal/Sun_Portal.blockymodel",
+    "CustomModel": "Blocks/Portals/Sun_Portal.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Portal/Sun_Portal.png",
+        "Texture": "Blocks/Portals/Sun_Portal.png",
         "Weight": 1
       }
     ],
