@@ -6,7 +6,7 @@ cd /d "%~dp0"
 
 REM Ziel
 set "USERHOST=root@31.172.47.26"
-set "REMOTE=/home/hytale/Server/mods"
+set "REMOTE=/home/hytale/HytaleServer/mods"
 
 REM Lokale Datei (jetzt sicher relativ zum aktuellen Ordner)
 set "LOCAL=target\SkylypsoMod-1.0.jar"
