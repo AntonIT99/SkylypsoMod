@@ -21,7 +21,7 @@ if not exist "%LOCAL%" (
   exit /b 1
 )
 
-echo Uploade:
+echo Upload:
 echo   "%CD%\%LOCAL%"
 echo nach:
 echo   %USERHOST%:%REMOTE%
