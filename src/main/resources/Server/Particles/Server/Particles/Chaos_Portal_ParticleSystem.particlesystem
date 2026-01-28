@@ -1,0 +1,13 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "Chaoswelt"
+    },
+    {
+      "SpawnerId": "Chaos_Portal_Sparks",
+      "StartDelay": 0
+    }
+  ],
+  "CullDistance": 50.0,
+  "IsImportant": false
+}

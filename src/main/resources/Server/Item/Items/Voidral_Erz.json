@@ -1,0 +1,37 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ore_Gold.name",
+    "Description": "server.items.Ore_Gold.description"
+  },
+  "Categories": [
+    "Blocks.Ores"
+  ],
+  "Icon": "Icons/ItemsGenerated/Voidral_Block.png",
+  "Model": "Resources/Ores/Voidral_Erz.blockymodel",
+  "Texture": "Resources/Ores/Voidral_Erz.png",
+  "ItemLevel": 10,
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.57323,
+    "Translation": [
+      -3.6,
+      -16.200001
+    ],
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Ore"
+    ]
+  },
+  "ItemEntity": {
+    "ParticleSystemId": null
+  },
+  "MaxStack": 25,
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "DropOnDeath": true
+}
