@@ -3,7 +3,7 @@
     "Name": "items.Sun_Portal.name",
     "Description": "items.Sun_Portal.description"
   },
-  "Icon": "Icons/ItemsGenerated/Sun_Portal.png",
+  "Icon": "Icons/ItemsGenerated/Portal.png",
   "Categories": [
     "Blocks.Portals"
   ],

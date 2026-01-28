@@ -1,7 +1,7 @@
 {
   "Spawners": [
     {
-      "SpawnerId": "Chaoswelt"
+      "SpawnerId": "Wuestenwelt"
     },
     {
       "SpawnerId": "Sun_Portal_Sparks",
